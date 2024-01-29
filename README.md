@@ -1,8 +1,7 @@
-<!-- 
+
 <p align="center">
-	<img src="https://github.com/migromarj/Readme-Images/blob/master/migromarj/github-header-image.png" alt="MasterHead">
+	<img src="https://media.licdn.com/dms/image/D4E16AQGVj_tz348L8w/profile-displaybackgroundimage-shrink_350_1400/0/1695913374256?e=1712188800&v=beta&t=NtEE4RJKg0THC_i1kcx_5QyslWlIY2XBF7yLYDQYfBI" alt="MasterHead">
 </p>
--->
 
 ## I'm a student of Software Engineering master's degree at the University of Seville.
 

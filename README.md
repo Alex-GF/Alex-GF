@@ -196,4 +196,4 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/alejandro-garcia-fernandez-07769b293/
+[linkedin]: https://www.linkedin.com/in/alegarfer/

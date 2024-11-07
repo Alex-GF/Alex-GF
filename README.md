@@ -1,9 +1,9 @@
 
 <p align="center">
-	<img src="https://media.licdn.com/dms/image/D4E16AQGVj_tz348L8w/profile-displaybackgroundimage-shrink_350_1400/0/1695913374256?e=1712188800&v=beta&t=NtEE4RJKg0THC_i1kcx_5QyslWlIY2XBF7yLYDQYfBI" alt="MasterHead">
+	<img src="https://media.licdn.com/dms/image/v2/D4E16AQGVj_tz348L8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1695913374256?e=1736380800&v=beta&t=FIBKyQ4_gbVaNCtmGqV2x_i-MwMa-B6lVSjVjR3WcHI" alt="MasterHead">
 </p>
 
-## I'm a student of Software Engineering master's degree at the University of Seville.
+## I'm a PhD student in Software Engineering at the University of Seville.
 
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 

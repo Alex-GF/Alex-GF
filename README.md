@@ -9,9 +9,9 @@
 
 - :toolbox: I’m currently working on **self-adaptive pricing-driven SaaS systems :man_technologist:** 
 - 📈 I'm motivated to **learn new things every day 🔋**
-- 🥅 2024 Goals: **Contribute to Open Source projects**
+- 🥅 2026 Goals: **Contribute to Open Source projects**
 - ⚡ Fun facts: **I love basketball 🏀 and playing mobile games 📱**
-- 📫 How to reach me: **yalejandro9@gmail.com**
+- 📫 How to reach me: **alej.garcia.fdez@gmail.com**
 
 ### Connect with me:
 
